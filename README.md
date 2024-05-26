@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java DSA**
 
-- 👯 I’m looking to collaborate on **Development and product based projects**
+- 👯 I’m looking to collaborate on **Product based projects**
 
 - 📫 How to reach me **akshit.shetty09@gmail.com**
 
