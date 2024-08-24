@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate Software engineer</h3>
+<h3 align="center">A passionate  engine</h3>
 
 
-- 🔭 I’m currently working on **SMS banking**
+- 🔭 I’m currently working on **Banking Projects**
 
-- 🌱 I’m currently learning **Java DSA**
 
-- 👯 I’m looking to collaborate on **Product based projects**
 
 - 📫 How to reach me **akshit.shetty09@gmail.com**
 
