@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate  engine</h3>
+<h3 align="center">Transforming Banking Operations with Technology</h3>
 
 
-- 🔭 I’m currently working on **Banking Projects**
+- 🔭 I’m currently working on **SMS Banking**
 
 
 
