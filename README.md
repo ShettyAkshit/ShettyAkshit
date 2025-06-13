@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Transforming Banking Operations with Technology</h3>
 
 
-- 🔭 I’m currently working on **SMS Banking**
+//- 🔭 I’m currently working on **SMS Banking**
 
 
 
